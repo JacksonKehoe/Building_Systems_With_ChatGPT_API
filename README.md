@@ -1,3 +1,2 @@
 # Building_Systems_With_ChatGPT_API
-online course with using chat gpt API up to creating a functional chatbot, the initial code was run when I ahd a GPT subscription 
-that allowed me to use the API. 
+This online course takes you through the journey of building a functional chatbot using the Chat GPT API. The initial code was executed during a period when I had an active GPT subscription, granting me access to the API. 
